@@ -1,0 +1,5 @@
+{
+  "extends": "@laragis/tsconfig/library.json",
+  "include": ["src"],
+  "exclude": ["build", "node_modules"]
+}
